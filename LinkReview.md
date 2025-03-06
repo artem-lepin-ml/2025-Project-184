@@ -9,6 +9,9 @@
 
 | Topic | Title | Year | Authors | Paper | Code | Summary |
 | :--- | :--- | :---: | :--- | :---: | :---: | :--- |
+| Introduction in VAE | Tutorial on Variational Autoencoders | 2016 | Carl Doersch | [arXiv](https://arxiv.org/pdf/1606.05908) |  | TODO |
+| Book on Deep neural network applications | Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges | 2021 | Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković | [arXiv](https://arxiv.org/abs/2104.13478) |  | TODO |
+
 
 ## Datasets
 
